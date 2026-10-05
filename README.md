@@ -1,4 +1,4 @@
-# ATLAS Pro — Adaptive Traffic Signal Control with Reinforcement Learning
+# EdgeAI-Traffic-Intelligence — Adaptive Traffic Signal Control with Reinforcement Learning
 
 An RL-based traffic light controller for a single 4-way intersection, designed
 around a fixed-cycle India-style signal pattern (one direction gets green at a
